@@ -125,8 +125,8 @@
 <br clear="both"/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ybunnn-dev&theme=radical" width="39%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.shion.dev/api?username=ybunnn-dev&show_icons=true&theme=radical&hide_rank=false&show=prs_merged,reviews" width="39%" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=ybunnn-dev&theme=radical" width="35%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ybunnn-dev&show_icons=true&theme=radical&hide_rank=false&show=prs_merged,reviews" width="35%" alt="stats graph" />
 
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ybunnn-dev&layout=compact&theme=radical" width="39%" alt="languages graph" />
   <br/>
