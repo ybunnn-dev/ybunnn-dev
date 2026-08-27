@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ybunnn-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ybunnn-dev" />
 </p>
 
-- 🔭 I’m currently working on [CodeFlow - WorkTyme](https://github.com/ybunnn-dev/codeflow-personal-os)
+- 🔭 I’m currently working on [Inventory++][(https://github.com/ybunnn-dev/inventory-plus-plus)]
 - 🌱 I’m currently learning **Laravel, NextJS, ReactJS**
 - 📫 How to reach me **belaroivan17@gmail.com**
 
